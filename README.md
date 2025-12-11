@@ -4,5 +4,5 @@ EXPLORATORY DATA ANALYSIS ( EDA ) - https://colab.research.google.com/drive/1gcB
 
 Varianta 1 -https://colab.research.google.com/drive/17lTWSoq3E6dwDzdZREiIDjiaaPTiiTVA?usp=sharing
 
-Varianta 2 - 
+Varianta 2 -Final  -https://colab.research.google.com/drive/17lTWSoq3E6dwDzdZREiIDjiaaPTiiTVA?usp=sharing 
 
